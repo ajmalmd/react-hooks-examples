@@ -9,4 +9,4 @@
    npm run dev
    ```
 
-# Try with uncommenting each hook example in App.jsx
+### After project setup, Try with uncommenting each hook example in App.jsx
